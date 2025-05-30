@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and software developement in general .
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on laravel projects
-- 📫 How to reach me https://linktr.ee/freedomfaighter
 - ⚡ Fun fact: less is more .
 
 <!---
